@@ -7,7 +7,7 @@
 - en [English](README.md)
 - zh_CN [Simplified Chinese](README.zh_CN.md)
 
-Hello, everyone! Welcome to C-Shopping, a journey into the world of e-commerce unveiling the technological wonders. I am "Ji Xiaopeng," the open-source author of C-Shopping, and today, I will introduce you to an open-source e-commerce platform based on the latest technologies. Let's explore together!
+Hello, everyone! Welcome to C-Shopping, a journey into the world of e-commerce unveiling the technological wonders. I am "Ji Xiaopeng," the open-source author of C-Shopping, and today, I will introduce you to an open-source e-commerce platform based on the latest technologies. Let's explore together! 11
 
 **Project Live Demo Links:**
 
